@@ -1,3 +1,16 @@
+# https://tea.xyz/what-is-this-file
+---
+version: 1.0.0
+codeOwners:
+  - '0xeb391c25D36020EFAd95b31D0e11679c4F26F80f'
+quorum: 1
+
+
+
+
+
+
+
 # trytelebot-
 guyz i just try make bot on telegram but script doesn't work can u watch this ?
 my bot should show gwei on the ethereum network automatically. 
